@@ -1,0 +1,5 @@
+com\qa\project\SellerControllerMvcTest.class
+com\qa\project\entities\SellerEntityTest.class
+com\qa\project\ProjectApplicationTests.class
+com\qa\project\PropertiesTest.class
+com\qa\project\BuyerControllerMvcTest.class
